@@ -4,6 +4,6 @@ Complete Remake of my Bedwars Texture Pack.
 
 - [x] Find Color Palette
 - [ ] Textures
-    - [ ] Swords
+    - [x] Swords
     - [ ] Armor
     - [ ] Resources
