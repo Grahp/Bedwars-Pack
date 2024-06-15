@@ -1,10 +1,9 @@
-My Bedwars Texture Pack.
-
-Mostly just an asset mashup.
+Complete Remake of my Bedwars Texture Pack.
 
 # Todo
 
-- [x] Add 1.12+ Textures as Base
-- [ ] Recolor Sword Textures
-- [ ] Redo UI
-- [ ] Add Resource Textures
+- [ ] Make Color Pallete
+- [ ] Textures
+    - [ ] Swords
+    - [ ] Armor
+    - [ ] Resources
