@@ -2,7 +2,7 @@ Complete Remake of my Bedwars Texture Pack.
 
 # Todo
 
-- [ ] Make Color Palette
+- [x] Find Color Palette
 - [ ] Textures
     - [ ] Swords
     - [ ] Armor
