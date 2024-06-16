@@ -4,5 +4,5 @@ Complete Remake of my Bedwars Texture Pack.
 
 - [ ] Textures
     - [ ] Resources
-        - [ ] Emerald.
+        - [ ] Emerald
     - [ ] Armor
